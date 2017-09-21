@@ -1,5 +1,5 @@
 #!/bin/sh
-ver="1.00"
+ver="1.01"
 echo
 echo "Hello program - version $ver"
 echo
