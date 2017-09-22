@@ -7,4 +7,4 @@ echo
 echo "Give me your name: "
 read name
 
-echo "Hello, x$name!"
+echo "Hello, $name!"
